@@ -53,8 +53,8 @@ flowchart LR
     end
 ```
 
-Full design: [docs/architecture.md](docs/architecture.md) · Decisions: [docs/adr/](docs/adr/)
-· Cost tracking: [docs/cost-tracking.md](docs/cost-tracking.md)
+Full design: [docs/architecture.md](docs/architecture.md) · Phase plans: [docs/plan/](docs/plan/README.md)
+· Decisions: [docs/adr/](docs/adr/) · Cost tracking: [docs/cost-tracking.md](docs/cost-tracking.md)
 
 ## Repository layout
 
